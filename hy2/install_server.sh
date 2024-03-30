@@ -30,8 +30,8 @@ SYSTEMD_SERVICES_DIR="/etc/systemd/system"
 CONFIG_DIR="/etc/hysteria"
 
 # URLs of GitHub
-REPO_URL="https://github.com/Wangwaichit/hysteria"
-API_BASE_URL="https://api.github.com/repos/Wangwaichit/hysteria"
+REPO_URL="https://hub.gitmirror.com/https://github.com/Wangwaichit/hysteria"
+API_BASE_URL="https://hub.gitmirror.com/https://api.github.com/repos/Wangwaichit/hysteria"
 
 # curl command line flags.
 # To using a proxy, please specify ALL_PROXY in the environ variable, such like:
